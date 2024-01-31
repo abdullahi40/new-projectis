@@ -6,4 +6,4 @@ function sun(...values){
     return sum;
 }
 
-console.log(sum(3,4));
+console.log(sum(3,4,7,9,4,));
